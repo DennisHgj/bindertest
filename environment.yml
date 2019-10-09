@@ -1,0 +1,13 @@
+name: ela
+channels:
+  - conda-forge
+dependencies:
+  - rasterio
+  - cartopy
+  - geopandas
+  - pandas
+  - nltk
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - vtk
