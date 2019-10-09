@@ -3,3 +3,4 @@ matplotlib==3.*
 seaborn==0.8.1
 pandas
 pyvista
+git+git://github.com/DennisHgj/pyela@master
