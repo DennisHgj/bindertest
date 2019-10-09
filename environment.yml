@@ -9,5 +9,5 @@ dependencies:
   - dill
   - pandas
   - partd
-  - pyvista
-  - vtk
+  - pyvista=0.21.2
+  - vtk=8.2.0
