@@ -11,3 +11,7 @@ dependencies:
   - scikit-image
   - matplotlib
   - vtk
+  -pyqt5
+  -mayavi
+  -pyvista
+  -git+git://github.com/DennisHgj/pyela@master
