@@ -14,4 +14,4 @@ dependencies:
   - pyqt
   - mayavi
   - pyvista
-  - git+git://github.com/DennisHgj/pyela@master
+  - git+https://github.com/DennisHgj/pyela@master
