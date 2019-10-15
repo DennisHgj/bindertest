@@ -15,4 +15,4 @@ dependencies:
   - mayavi
   - pyvista
   - pip:
-    - git+git://github.com/DennisHgj/pyela@master
+    - git+git://github.com/DennisHgj/pyela@test
